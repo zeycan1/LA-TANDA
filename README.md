@@ -1,4 +1,4 @@
-# LA-TANDA
+# LA TANDA
 
 <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/46ef6f9d-ffc4-46e5-8e32-5a91b9401c66" />
 
