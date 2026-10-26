@@ -5,7 +5,7 @@
 # La Tanda Testnet Validator Guide (with Cosmovisor)
 
 ### RPC: https://latanda-rpc.zeycanode.com/
-
+### API : https://latanda-api.zeycanode.com/
 A practical, field-tested guide for running a validator on the **La Tanda Chain** testnet (`latanda-testnet-1`, Cosmos SDK v0.53.6 / CometBFT) under **Cosmovisor**, including the Discord verification steps (`!verify` and the HTTP-nonce infrastructure check) and the mistakes we hit along the way.
 
 > **Disclaimer.** This is a community guide, not an official one. It builds on the public UTSA community guide and the La Tanda team's forum posts, and adds fixes for problems found in real use. Testnet LTD has no monetary value according to the project. Programs, endpoints and policies can change, so always check the pinned messages in the project's Discord. Last tested: October 2026.
