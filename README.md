@@ -5,7 +5,7 @@
 # La Tanda Testnet Validatör Rehberi (Cosmovisor ile)
 
 ### RPC: https://latanda-rpc.zeycanode.com/
-
+### API : https://latanda-api.zeycanode.com/
 **La Tanda Chain** testnet'inde (`latanda-testnet-1`, Cosmos SDK v0.53.6 / CometBFT) **Cosmovisor** ile validatör çalıştırmak için sahada denenmiş pratik bir rehber. Discord doğrulama adımlarını (`!verify` ve HTTP-nonce altyapı kontrolü) ve yol boyunca yapılan hataları da içerir.
 
 > **Uyarı.** Bu rehber resmi değil, topluluk rehberidir. Herkese açık UTSA topluluk rehberini ve La Tanda ekibinin forum yazılarını baz alır, gerçek kullanımda çıkan sorunların çözümlerini ekler. Projeye göre testnet LTD'nin parasal değeri yoktur. Programlar, endpoint'ler ve kurallar değişebilir, bu yüzden projenin Discord'undaki sabitlenmiş mesajları mutlaka kontrol et. Son test: Ekim 2026.
